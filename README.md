@@ -26,3 +26,10 @@ after making python script beacially we end up making new CSV file called
 
 hmmm so we have NOW CLEANED CSV 
 and how did i do it? only using python and numpy for my workwokrowkr
+
+Now Now Now what do we do next 
+we take our data and uplaod it to S3 bucket and then through S3 bucket we call and uplpad our data to our Snowflake!!!!!!! 
+
+How do we call it though and upload her bucket stuff 
+<img width="901" height="348" alt="image" src="https://github.com/user-attachments/assets/b997d72d-47b4-447e-8596-bbf8901dabf5" />
+
