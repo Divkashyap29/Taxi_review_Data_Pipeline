@@ -33,3 +33,9 @@ we take our data and uplaod it to S3 bucket and then through S3 bucket we call a
 How do we call it though and upload her bucket stuff 
 <img width="901" height="348" alt="image" src="https://github.com/user-attachments/assets/b997d72d-47b4-447e-8596-bbf8901dabf5" />
 
+creating table in sowflake 
+<img width="537" height="716" alt="image" src="https://github.com/user-attachments/assets/3aba21a0-a7e0-41b7-88f3-29c1b81dbfa4" />
+
+and then 
+
+
