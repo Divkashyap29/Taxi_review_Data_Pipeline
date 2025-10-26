@@ -17,3 +17,12 @@ so so so so
 this is batch processing data becuase it's not really like real time data 
 now thinking baout that 
 I am only going to use python sciprt to do that 
+
+<img width="1167" height="655" alt="image" src="https://github.com/user-attachments/assets/b8833809-beb7-403a-8af0-a497655eee7e" />
+blah balh ofc 
+made the pythong script 
+after making python script beacially we end up making new CSV file called 
+<img width="257" height="142" alt="image" src="https://github.com/user-attachments/assets/3189f082-e7ea-4798-86c5-1477e52fdbe0" />
+
+hmmm so we have NOW CLEANED CSV 
+and how did i do it? only using python and numpy for my workwokrowkr
